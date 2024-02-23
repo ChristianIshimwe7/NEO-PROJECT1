@@ -1,0 +1,25 @@
+Student registration system
+This repository contains an application that registers students' details into the ALU registration system. The application takes user input and loads and builds the Bachelor of Software Engineering cohort list of students. The inputs the application alows the user to enter the following informations (student email, age, and student ID).
+
+How to run the application
+Clone the repository into your local system:
+git clone https://github.com/N-Ghi/Group7_gcs-2.git
+Navigate to the cloned directory:
+cd repository-name/
+Navigate to negpod_7-q1 directory:
+cd negpod_7-q1/
+Run main program:
+./main.sh
+Choose the option to suit your intended action from 1 to 5
+
+Get an email list of students:
+./select-emails.sh
+Now the application is running successfully.
+
+Contributors
+1.Christian
+2.Samuel
+3.John
+4.Ketia
+5.Noella
+This is the end of the project description
